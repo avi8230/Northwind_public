@@ -1,0 +1,31 @@
+{
+    "name": "northwind-back-end",
+    "version": "2.0.1",
+    "description": "Local REST API for Northwind Data.",
+    "bin": {
+        "northwind": "app.js"
+    },
+    "keywords": [
+        "northwind",
+        "northwind traders",
+        "backend",
+        "back end",
+        "back-end",
+        "mock",
+        "rest",
+        "rest api",
+        "restful service",
+        "products",
+        "employees",
+        "categories"
+    ],
+    "author": "Assaf Finkelshtein",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "express-fileupload": "^1.2.0",
+        "joi": "^17.3.0",
+        "jsonwebtoken": "^8.5.1"
+    }
+}

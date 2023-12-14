@@ -1,0 +1,7 @@
+.Recommended {
+	padding: 10px;
+}
+
+.Recommended .NiceButton {
+    background-color: red;
+}

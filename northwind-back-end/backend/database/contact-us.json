@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Moishe Ufnik",
+        "phone": "0521234567",
+        "email": "moishe.ufnik@gmail.com",
+        "message": "Cool REST API!"
+    },
+    {
+        "id": 2,
+        "name": "Kipi Ben-Kipod",
+        "phone": "0509876543",
+        "email": "kipi.benkipod@yahoo.com",
+        "message": "This is an Amazing Product!"
+    },
+    {
+        "id": 3,
+        "name": "Ugifletzet",
+        "phone": "031020304",
+        "email": "ugifletzet@gmail.com",
+        "message": "Unbelievable RESTful Service :-)"
+    }
+]

@@ -1,0 +1,13 @@
+.ViewGroceryList {
+	overflow: auto;
+}
+
+.ViewGroceryList > table {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.ViewGroceryList > table, .ViewGroceryList th, .ViewGroceryList td {
+    border: 1px solid black;
+}

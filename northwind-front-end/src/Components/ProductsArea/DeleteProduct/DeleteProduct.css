@@ -1,0 +1,20 @@
+.DeleteProduct {
+    width: 250px;
+    text-align: center;
+}
+
+.DeleteProduct input {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 0 20px 0;
+}
+
+.DeleteProduct button {
+    width: 50%;
+    margin: 10px 0 20px 0;
+}
+
+.DeleteProduct img {
+    width: 90%;
+    margin: 10px;
+}

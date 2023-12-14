@@ -1,0 +1,32 @@
+.Menu {
+	display: flex;
+    flex-direction: column;
+}
+
+.Menu > a {
+    margin-top: 20px;
+}
+
+.Menu .active {
+    color: darkcyan;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+/* .Menu .active-home {
+    color: green;
+}
+
+.Menu .active-products {
+    color: red;
+    font-weight: bold;
+}
+
+.Menu .active-support {
+    color: magenta;
+}
+
+.Menu .active-contact-us {
+    color: yellow;
+} */

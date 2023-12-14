@@ -1,0 +1,9 @@
+Convert all to TypeScript?
+replace all status codes with constants
+refresh token
+patch
+response 400 on no image name, even when a file was sent, thus remove unecessary code from logic (ifs)
+all images UUID
+return back imageUrl as "http://localhost:3030/api/products/image-uuid.jpg" instead of imageName as "1.jpg" 
+email instead of username
+block employee routes or some other products route

@@ -1,0 +1,10 @@
+.AddGroceryItem > form {
+    width: 250px;
+    margin: auto;
+}
+
+.AddGroceryItem input, .AddGroceryItem button {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 0 20px 0;
+}

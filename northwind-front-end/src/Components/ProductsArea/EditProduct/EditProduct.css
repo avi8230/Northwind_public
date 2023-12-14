@@ -1,0 +1,33 @@
+.EditProduct > form {
+    width: 250px;
+}
+
+.EditProduct input {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 0 20px 0;
+}
+
+.EditProduct button {
+    width: 50%;
+    margin: 10px 0 20px 0;
+}
+
+.EditProduct span {
+    color: red;
+    margin: 0 20px;
+    position: absolute;
+    vertical-align: middle;
+}
+
+.EditProduct img {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    position: absolute;
+    transform: translate(-55px, -20px);
+}
+
+.EditProduct input[type="file"] {
+    color: transparent;
+}

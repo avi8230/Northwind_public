@@ -1,0 +1,7 @@
+.UpSlant {
+    transform: rotate(5deg);
+}
+
+.DownSlant {
+    transform: rotate(-5deg);
+}

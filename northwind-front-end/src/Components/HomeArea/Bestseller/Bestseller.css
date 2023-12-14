@@ -1,0 +1,8 @@
+.Bestseller {
+	padding: 10px;
+}
+
+.Bestseller .NiceButton {
+    background-color: blue;
+    font-size: xx-large;
+}
